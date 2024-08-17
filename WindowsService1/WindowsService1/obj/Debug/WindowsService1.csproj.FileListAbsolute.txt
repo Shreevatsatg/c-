@@ -1,0 +1,4 @@
+D:\c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+D:\c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.Service1.resources
+D:\c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+D:\c#\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
